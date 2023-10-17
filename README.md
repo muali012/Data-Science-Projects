@@ -1,6 +1,6 @@
 # Data-Science-Projects
 
-This repository contains the code and corresponding data for the data science projects I contributed to
+This repository contains the code, references and corresponding datasets for my projects
 
 * Life Expectancy
   [World Bank Data](https://genderdata.worldbank.org/indicators/sp-dyn-le-00-in/)
